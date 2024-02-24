@@ -2,7 +2,7 @@
 <h3 align="center">Glad to see you here!</h3
 <br>
 <br>
-# 💫 About Me:
+ 💫 About Me:
 🔭 I’m pursuing Masters in Computer Applications(MCA) <br>🌱 I’m currently learning Java, PHP and Laravel<br>📫 How to reach me **nihalibnnizar@gmail.com**<br>⚡ Fun fact I'm a BSc Physics graduate!
 
 

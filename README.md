@@ -3,7 +3,7 @@
 <br>
 <br>
 💫 About Me:
-<br>🔭 I’m pursuing Masters in Computer Applications(MCA) <br>🌱 I’m currently learning Java, PHP and Laravel<br>📫 How to reach me nihalibnnizar@gmail.com <br>⚡ Fun fact I'm a BSc Physics graduate!
+<br>🔭 I’m pursuing Masters in Computer Applications(MCA) <br>🌱 I’m currently learning Android & Microsoft .NET<br>📫 How to reach me nihal.offcl@gmail.com <br>⚡ Fun fact I'm a BSc Physics graduate!
 
 
 ## 🌐 Socials:
